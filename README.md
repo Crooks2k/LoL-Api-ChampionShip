@@ -1,10 +1,9 @@
-# //proyect name here>
+# //League Of Legends Champions - API
 <hr>
 
-## proyect description here
-Api Rest que permite crear, eliminar, actualizar y leer todas las Movies o Rating, de igualmente cuenta dcon filtros personalizados
-donde se puede traer los datos de una pelicula de acuerdo a si es las letras iniciales, una palabra contenida o el el titulo completo de la pelicula.
-(https://backendvideoclub.onrender.com)
+## Contenido del API
+Api Rest que permite obtener información varia y detallada sobre los personajes de League Of Legends. cuenta con varias categorias de información en las que se incluye el origen, posicion, nombre, habilidades detalladas e incluso iconos de habilidades de cada personaje.
+Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://league-of-legends-champions.onrender.com/App/Champions
 
 <hr>
  
@@ -19,10 +18,10 @@ donde se puede traer los datos de una pelicula de acuerdo a si es las letras ini
 <hr>
 
 ### Installation 🔧 
-1. $ git clone ... //Clonar el repositorio
-2. $ cd BackendVideoClub   // ir a la carpeta
+1. $ git clone https://github.com/Crooks2k/LoL-Api-ChampionShip.git //Clonar el repositorio
+2. $ cd <Nombre de la carpeta>   // ir a la carpeta
 3. $ npm install       // instalar dependecias alojadas en package json
-4. $ npm run dev // ejecutar el proyecto localmente (este comando iniciara el servidor en el puerto 3030)
+4. $ npm run dev // ejecutar el proyecto localmente con nodemon (este comando iniciara el servidor en el puerto 3030)
 
 <hr>
 
@@ -38,21 +37,13 @@ donde se puede traer los datos de una pelicula de acuerdo a si es las letras ini
 
 ### Funcionalidades 📦 
  
-1. Crear Movies
-2. Traer Todas las Movies
-3. Modificar Movies
-4. Eliminar Movies
-5. Crear Rating
-6. Traer Todas las Rating
-7. Modificar Rating
-8. Eliminar Rating
-9. Traer las Movies por el titulo completo.
-10. Traer las Movies por las primeras letras del titulo.
-11. Traer las Movies que una palabra sea contenida en el titulo.
+1. Traer Información
+2. Visualizar información detallada
 
 
 ### Autores ✒️ 
-* 
+
+* Daniel Veloza | @Crooks2k
  
  <hr>
  
@@ -64,6 +55,7 @@ Read our license
  
  
 <hr>
+<br>
 @Crooks2k | Daniel Veloza
 
 
