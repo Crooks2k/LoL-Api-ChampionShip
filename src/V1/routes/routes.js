@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const ChampionController = require("../controllers/ChampionController")
+const ChampionController = require("../../controllers/ChampionController")
 
 router
   .get("/Champions", ChampionController.getChampionList)
