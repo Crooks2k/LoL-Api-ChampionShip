@@ -4,8 +4,13 @@ const ChampionController = require("../controllers/ChampionController")
 
 router
   .get("/Champions", ChampionController.getChampionList)
+
+  .get("/Champion/:id", ChampionController.getChampionById)
+
   .post("/newChampion", ChampionController.postNewChampion)
-  .put("/Champion/:id")
-  .delete("/RemoveChampion")
+
+  .put("/Champion/:id", ChampionController.editOneChampion)
+
+  .delete("/RemoveChampion/:id", ChampionController.deleteOneChampion)
 
 module.exports = router;
