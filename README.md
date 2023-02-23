@@ -14,6 +14,7 @@ Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://leagu
 * Installación
 * Tecnologias Aplicadas
 * Funcionalidades
+* Rutas de los endpoints
 
 <hr>
 
@@ -39,6 +40,13 @@ Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://leagu
  
 1. Traer Información
 2. Visualizar información detallada
+
+<hr>
+
+### Acerca de los endpoints
+  
+
+<hr>
 
 
 ### Autores ✒️ 
