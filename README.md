@@ -3,7 +3,7 @@
 
 ## Contenido del API
 Api Rest que permite obtener información varia y detallada sobre los personajes de League Of Legends. cuenta con varias categorias de información en las que se incluye el origen, posicion, nombre, habilidades detalladas e incluso iconos de habilidades de cada personaje.
-Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://league-of-legends-champions.onrender.com/app/v1/docs/#/
+Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://league-of-legends-champions.onrender.com/App/Champions
 
 <hr>
  
