@@ -1,16 +1,20 @@
 const swaggerJSDoc = require("swagger-jsdoc")
 const swaggerUI = require("swagger-ui-express")
 const colors = require("colors")
-
-
+const path = require("path")
 // Metadata info about our API
 
 const options = {
   definition: {
     openapi: "3.0.0",
-    info: {title: "LoL Champion API", version: "1.0.0"},
+    info: {title: "LoL Champion List | API", version: "1.0.0"},
   },
-  apis: ["src/V1/routes/routes", "src/models/ChampionModel"]
+  apis: [`${path.join(__dirname, "../V1/routes/*.js")}`],
+  servers: [
+    {
+      url: "http://localhost:3030"
+    }
+  ]
 };
 
 // Docs on JSON format

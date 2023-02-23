@@ -3,7 +3,7 @@ const mongoose=require("mongoose"); //import mongoose
 //create body model / collection
 
 const ExampleSchema=new mongoose.Schema({
-  champion:String,
+  champion: String,
   release_date: String,
   img: String,
   origen: String,
