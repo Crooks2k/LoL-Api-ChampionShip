@@ -33,6 +33,8 @@ Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://leagu
 * Express
 * Cors
 * colors
+* swagger-jsdoc
+* swagger-ui-express
 
 <hr>
 
@@ -40,6 +42,7 @@ Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://leagu
  
 1. Traer Información
 2. Visualizar información detallada
+3. Realizar peticiones a la base de datos
 
 <hr>
 
@@ -48,7 +51,6 @@ La api cuenta con varios endpoints para hacer CRUD, las rutas de los enpoints, d
 https://league-of-legends-champions.onrender.com/app/v1/docs/#/
 
 <hr>
-
 
 ### Autores ✒️ 
 
