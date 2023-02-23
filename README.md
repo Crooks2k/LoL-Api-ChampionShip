@@ -44,6 +44,9 @@ Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://leagu
 <hr>
 
 ### Acerca de los endpoints
+  
+
+<hr>
 
 
 ### Autores ✒️ 
