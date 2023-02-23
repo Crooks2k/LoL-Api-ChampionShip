@@ -1,5 +1,4 @@
 # //League Of Legends Champions - API
-<hr>
 
 ## Contenido del API
 Api Rest que permite obtener información varia y detallada sobre los personajes de League Of Legends. cuenta con varias categorias de información en las que se incluye el origen, posicion, nombre, habilidades detalladas e incluso iconos de habilidades de cada personaje.
