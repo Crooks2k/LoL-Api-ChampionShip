@@ -44,7 +44,8 @@ Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://leagu
 <hr>
 
 ### Acerca de los endpoints
-  
+La api cuenta con varios endpoints para hacer CRUD, las rutas de los enpoints, definiciones y usos se encuentran definidas en la siguiente documentación:
+https://league-of-legends-champions.onrender.com/app/v1/docs/#/
 
 <hr>
 
