@@ -2,6 +2,9 @@
 
 ## Contenido del API
 Api Rest que permite obtener información varia y detallada sobre los personajes de League Of Legends. cuenta con varias categorias de información en las que se incluye el origen, posicion, nombre, habilidades detalladas e incluso iconos de habilidades de cada personaje.
+
+## Demo
+
 Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://league-of-legends-champions.onrender.com/App/Champions
 
 <hr>
@@ -18,10 +21,18 @@ Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://leagu
 <hr>
 
 ### Installation 🔧 
-1. $ git clone https://github.com/Crooks2k/LoL-Api-ChampionShip.git //Clonar el repositorio
-2. $ cd <Nombre de la carpeta>   // ir a la carpeta
-3. $ npm install       // instalar dependecias alojadas en package json
-4. $ npm run dev // ejecutar el proyecto localmente con nodemon (este comando iniciara el servidor en el puerto 3030)
+```bash
+git clone https://github.com/Crooks2k/LoL-Api-ChampionShip.git
+```
+```bash
+cd <Nombre de la carpeta>
+```
+```bash
+npm install --save
+```
+```bash
+npm run dev
+```
 
 <hr>
 
@@ -46,26 +57,27 @@ Si quieres visualizar mas acerca del API puedes visualizarla aqui: https://leagu
 <hr>
 
 ### Acerca de los endpoints
-La api cuenta con varios endpoints para hacer CRUD, las rutas de los enpoints, definiciones y usos se encuentran definidas en la siguiente documentación:
-https://league-of-legends-champions.onrender.com/app/v1/docs/#/
+La api cuenta con varios endpoints para hacer CRUD, las rutas de los enpoints, definiciones y usos se encuentran definidas en la siguiente documentación:<br>
+[Documentación en swagger](https://league-of-legends-champions.onrender.com/app/v1/docs/#/)
 
 <hr>
 
 ### Autores ✒️ 
 
-* Daniel Veloza | @Crooks2k
+[@Crooks2k](https://www.github.com/Crooks2k)
  
  <hr>
  
 ### License 📄 
 Read our license 
  
-- MIT LICENSE 
+[MIT](https://choosealicense.com/licenses/mit/)
  
  
  
 <hr>
 <br>
+
 @Crooks2k | Daniel Veloza
 
 
